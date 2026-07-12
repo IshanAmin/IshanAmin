@@ -27,9 +27,12 @@ I build AI agents and ship working examples that businesses can deploy right awa
 
 ### My Core Focus 🎯
 Basically anything that has to do with AI Agents: 
-* 🛠️ Single-agent & multi-agent systems
-* 🔌 Mobile Apps
-* 🏛️ SaaS Apps
-* 🌐 Browser agents
-* 🗣️ Voice agents
-* 💻 Local agents
+* 🛠️ <kbd>Single-agent</kbd> & <kbd>multi-agent</kbd> systems
+* 🔌 <kbd>Mobile Apps</kbd>
+* 🏛️ <kbd>SaaS Apps</kbd>
+* 🌐 <kbd>Browser agents</kbd>
+* 🗣️ <kbd>Voice agents</kbd>
+* 💻 <kbd>Local agents</kbd>
+
+
+My Favorite Github trick: Open any repository in the browser and then press the <kbd>.</kbd> and turn that repo into a Full blown version of VSCode in the browser.
