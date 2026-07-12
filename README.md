@@ -28,7 +28,8 @@ I build AI agents and ship working examples that businesses can deploy right awa
 ### My Core Focus 🎯
 Basically anything that has to do with AI Agents: 
 * 🛠️ Single-agent & multi-agent systems
-* 🔌 MCP-based tools
+* 🔌 Mobile Apps
+* 🏛️ SaaS Apps
 * 🌐 Browser agents
 * 🗣️ Voice agents
 * 💻 Local agents
